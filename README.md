@@ -26,7 +26,7 @@ Spring MVC Form Handling, URL Mapping, Input Validation, Insert data to mysql se
 
 WAR uzantılı olarak projemizi export edip Tomcat'in kurulu dizini içerisindeki webapps klasörü içerisine taşımanız yeterlidir.
 
-## Sürüm Notları
+## Notları
 sbMask plugini, veri girişi yapılan noktalarda yalnızca backscape ile silme işlemini destekliyor. Select Range, paste event tarzı diğer eventler desteklenmemekte.
 
 sbValidate ve sbMask fonksiyonları birer jQuery kütüphaneleridir. sbValidate için ek olarak showPopup fonksiyonu script.js'ten çağırılmaktadır.
